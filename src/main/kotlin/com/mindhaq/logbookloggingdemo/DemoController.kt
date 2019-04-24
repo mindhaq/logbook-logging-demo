@@ -6,7 +6,18 @@ import org.springframework.web.bind.annotation.RestController
 @RestController
 class DemoController {
     @GetMapping("/error")
-    fun error() {
+    fun error(): Foo {
+        // no response will be logged by logbook
         throw RuntimeException()
     }
+
+    @GetMapping("/success")
+    fun success(): Foo {
+        // request and response are logged by logbook
+        return Foo()
+    }
 }
+
+data class Foo(
+        val bar: String = "foo-bar"
+)
