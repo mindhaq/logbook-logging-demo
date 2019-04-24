@@ -1,0 +1,6 @@
+logbook:
+#  strategy: status-at-least
+
+logging:
+  level:
+    org.zalando.logbook: TRACE
