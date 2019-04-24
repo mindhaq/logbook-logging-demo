@@ -1,0 +1,121 @@
+GET http://localhost:8080/success
+
+<> 2019-04-24T022408.200.json
+
+###
+
+GET http://localhost:8080/success
+
+<> 2019-04-24T022229.200.json
+
+###
+
+GET http://localhost:8080/success
+
+<> 2019-04-24T021857.200.json
+
+###
+
+GET http://localhost:8080/success
+
+<> 2019-04-24T021835.200.json
+
+###
+
+GET http://localhost:8080/success
+
+<> 2019-04-24T021350.200.json
+
+###
+
+GET http://localhost:8080/success
+
+<> 2019-04-24T021131.500.html
+
+###
+
+GET http://localhost:8080/error
+
+<> 2019-04-24T112605.500.html
+
+###
+
+GET http://localhost:8080/success
+
+<> 2019-04-24T112547.200.json
+
+###
+
+GET http://localhost:8080/error
+Accept: application/json
+
+<> 2019-04-24T112007.500.html
+
+###
+
+GET http://localhost:8080/error
+Accept: application/json
+
+<> 2019-04-24T111558.500.html
+
+###
+
+GET http://localhost:8080/error
+Accept: application/json
+
+<> 2019-04-24T111506.500.html
+
+###
+
+GET http://localhost:8080/error
+Accept: application/json
+
+<> 2019-04-24T111205.500.html
+
+###
+
+GET http://localhost:8080/error
+Accept: application/json
+
+<> 2019-04-24T110856.500.html
+
+###
+
+GET http://localhost:8080/error
+Accept: application/json
+
+<> 2019-04-24T110849.500.html
+
+###
+
+GET http://localhost:8080/error
+Content-Type: application/json
+
+<> 2019-04-24T110824.500.html
+
+###
+
+GET http://localhost:8080/error
+
+<> 2019-04-24T105847.500.html
+
+###
+
+GET http://localhost:8080/error
+
+<> 2019-04-24T105140.500.html
+
+###
+
+GET http://localhost:8080/error
+
+<> 2019-04-24T105023.500.html
+
+###
+
+GET http://localhost:8080/error
+
+<> 2019-04-24T104541.500.html
+
+###
+

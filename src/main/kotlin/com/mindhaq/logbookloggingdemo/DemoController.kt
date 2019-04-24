@@ -19,5 +19,7 @@ class DemoController {
 }
 
 data class Foo(
-        val bar: String = "foo-bar"
+        val bar: String = "foo-bar",
+        val email: String = "someone@example.com",
+        val other: Foo? = Foo("other-bar", "bar@example.com", null)
 )
